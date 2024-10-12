@@ -4,4 +4,4 @@ An interactive navigation menu that changes color or style when scrolled or when
 a menu item. The navigation menu should have a fixed position and be visible on all pages. It
 changes font color of the menu when it is scrolled or when menu item is hovered over.
 
-                                                                      #Designed by Dinesh.Davuluri.
+                                                        #Designed by Dinesh.Davuluri.
